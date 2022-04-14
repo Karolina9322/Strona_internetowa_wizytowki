@@ -1,0 +1,26 @@
+h1 {
+    color: black;
+    background: rgb(218, 213, 213);
+    margin-left: 10px;
+
+  }
+  .first {
+    color: rgb(39, 39, 145);
+    font-size: 35px; 
+    margin-left: 15px;
+  }
+
+  .second {
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+    margin-left: 15px;
+  }
+
+  .third {
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+    margin-left: 15px;
+
+  }
